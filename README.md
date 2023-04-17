@@ -13,3 +13,6 @@ Read the above [Coursework Specification](https://github.com/AhmedAamil/SD1-Cour
 4. [Part 04.py](https://github.com/AhmedAamil/SD1-Coursework/blob/MAIN/Part%2004.py) is a separate file for the dictionary program (Part 04).
 5. [Staff Version.py](https://github.com/AhmedAamil/SD1-Coursework/blob/MAIN/Staff%20Version.py) is an alternative Staff Version as a backup that includes the ICW's entire Python code (Part 01 - Part 04).
 6. [Test Plans (For Part 1).pdf](https://github.com/AhmedAamil/SD1-Coursework/blob/MAIN/Coursework%20Specification.pdf) includes the Test case results.
+
+
+© Copyright Informatics Institute of Technology 2022
