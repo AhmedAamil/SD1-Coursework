@@ -15,4 +15,4 @@ Read the above [Coursework Specification](https://github.com/AhmedAamil/SD1-Cour
 6. [Test Plans (For Part 1).pdf](https://github.com/AhmedAamil/SD1-Coursework/blob/MAIN/Coursework%20Specification.pdf) includes the Test case results.
 
 
-© Copyright Informatics Institute of Technology 2022
+Copyright © 2022 Informatics Institute of Technology. All Rights Reserved
